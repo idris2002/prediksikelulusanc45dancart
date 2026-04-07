@@ -1,0 +1,27 @@
+body {
+font-family: Arial, sans-serif;
+background: #f4f6f9;
+}
+.container {
+width: 420px;
+margin: 60px auto;
+background: white;
+padding: 25px;
+border-radius: 10px;
+text-align: center;
+}
+input, button {
+width: 95%;
+padding: 10px;
+margin: 6px 0;
+}
+button {
+background: #2563eb;
+color: white;
+border: none;
+border-radius: 5px;
+}
+.hasil {
+margin-top: 15px;
+font-size: 18px;
+}
